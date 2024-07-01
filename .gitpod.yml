@@ -10,8 +10,8 @@ tasks:
       ddev start -y
       gp ports await 8080 && gp preview $(gp url 8080)
       ddev composer update
+      ddev drush updb -y
       ddev drush cr
-  #    ddev drush upwd admin "admin"
 
 # VScode xdebug extension
 vscode:
