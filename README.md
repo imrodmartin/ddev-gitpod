@@ -12,7 +12,7 @@ This project demonstrates a <strong>complete Drupal 10</strong> (10.0.3) develop
 <a href="https://vimeo.com/699619764" target="_blank"><img src="https://imrodmartin.com/sites/default/files/2023-09/cover-github-repo.jpg"></a>
 
 ## Prerequisites:
-1. [Sign up for gitpod.io](https://gitpod.io/login)
+1. [Sign up for gitpod.io](https://gitpod.io/login) - **USE A GITHUB ACCOUNT**
 
 ## Try it out:
 1. Click on the following link
