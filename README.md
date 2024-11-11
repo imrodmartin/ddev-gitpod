@@ -3,7 +3,7 @@
 # ddev + Gitpod
 ## Set up a full Drupal dev environment in a browser (now using Drupal 10!)
 
-This project demonstrates a <strong>complete Drupal 10</strong> (10.0.3) development environment, utilizing ddev and Gitpod, through your browser.  
+This project demonstrates a <strong>complete Drupal 10</strong> development environment, utilizing ddev and Gitpod, through your browser.  
 
 ## This is a branch from @shaal - creates a blank Drupal site instead of a Unami Demo ##
 
