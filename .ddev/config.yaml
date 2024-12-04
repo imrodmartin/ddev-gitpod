@@ -1,5 +1,5 @@
 name: ddev-gitpod
-type: drupal11
+type: drupal10
 docroot: web
 php_version: "8.3"
 webserver_type: nginx-fpm
@@ -10,7 +10,7 @@ additional_hostnames: []
 additional_fqdns: []
 database:
   type: mariadb
-  version: "10.6"
+  version: "10.4"
 nfs_mount_enabled: false
 mutagen_enabled: false
 use_dns_when_possible: true
