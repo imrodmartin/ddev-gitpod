@@ -1,5 +1,5 @@
 name: ddev-gitpod
-type: drupal10
+type: drupal11
 docroot: web
 php_version: "8.3"
 webserver_type: nginx-fpm
