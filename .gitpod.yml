@@ -4,7 +4,7 @@ image: drupalpod/drupalpod-gitpod-base:20240905
 tasks:
   - init: |
       ddev start -y
-      sudo apt-get update && sudo apt-get upgrade -y
+   #   sudo apt-get update && sudo apt-get upgrade -y
       ddev composer install
       ddev drush si -y --account-pass=admin --site-name='Drupal Training'
     command: |
